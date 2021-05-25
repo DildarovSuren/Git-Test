@@ -1,5 +1,11 @@
-print("Hello world")
-print("Hello everybody")
-Hilllo
-print hellomy dear friend
-print hey hello
+
+print("Hello world;")
+print("Hello everybody;")
+Hilllo;
+print hellomy dear friend;
+print hey hello;
+=======
+print("Hello world;")
+print("Hello everybody;")
+Hilllo;
+>>>>>>> master
